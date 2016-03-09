@@ -1,0 +1,39 @@
+{
+  "name": "observ-focus",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Observable interface to window focus/blur state",
+  "license": "MIT",
+  "repository": "bendrucker/observ-focus",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "window",
+    "browser",
+    "blur",
+    "focus",
+    "event",
+    "listener"
+  ],
+  "devDependencies": {
+    "dom-event-target": "~1.0.0",
+    "proxyquire": "~1.7.4",
+    "standard": "^6.0.0",
+    "tape": "^4.0.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "ap": "~0.2.0",
+    "global": "~4.3.0",
+    "observ": "~0.2.0",
+    "partial": "0.0.3"
+  }
+}
