@@ -1,4 +1,4 @@
-# observ-focus [![Build Status](https://travis-ci.org/bendrucker/observ-focus.svg?branch=master)](https://travis-ci.org/bendrucker/observ-focus)
+# observ-focus [![Build Status](https://travis-ci.org/bendrucker/observ-focus.svg?branch=master)](https://travis-ci.org/bendrucker/observ-focus) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/observ-focus.svg)](https://greenkeeper.io/)
 
 > Observable interface to window focus/blur state
 
